@@ -23,3 +23,4 @@
 * [february](gitbook-diary-2024/february/README.md)
   * [2024.02.01](gitbook-diary-2024/february/2024.02.01.md)
   * [2024.02.02](gitbook-diary-2024/february/2024.02.02.md)
+  * [2024.02.03](gitbook-diary-2024/february/2024.02.03.md)
