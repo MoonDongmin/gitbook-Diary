@@ -26,3 +26,4 @@
   * [2024.02.03](gitbook-diary-2024/february/2024.02.03.md)
   * [2024.02.04](gitbook-diary-2024/february/2024.02.04.md)
   * [2024.02.05](gitbook-diary-2024/february/2024.02.05.md)
+  * [2024.02.06](gitbook-diary-2024/february/2024.02.06.md)
