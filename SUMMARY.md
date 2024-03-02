@@ -40,4 +40,6 @@
   * [2024.02.22](gitbook-diary-2024/february/2024.02.22.md)
   * [2024.02.26](gitbook-diary-2024/february/2024.02.26.md)
   * [2024.02.19](gitbook-diary-2024/february/2024.02.19.md)
-  * [2024.03.01](gitbook-diary-2024/february/2024.03.01.md)
+* [march](gitbook-diary-2024/march/README.md)
+  * [2024.03.01](gitbook-diary-2024/march/2024.03.01.md)
+  * [2024.03.02](gitbook-diary-2024/march/2024.03.02.md)
