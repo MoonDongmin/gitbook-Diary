@@ -50,3 +50,5 @@
   * [2024.03.11](gitbook-diary-2024/march/2024.03.11.md)
   * [2024.03.27](gitbook-diary-2024/march/2024.03.27.md)
   * [2024.03.30](gitbook-diary-2024/march/2024.03.30.md)
+* [april](gitbook-diary-2024/april/README.md)
+  * [2024.04.02](gitbook-diary-2024/april/2024.04.02.md)
