@@ -55,3 +55,4 @@
   * [2024.04.06](gitbook-diary-2024/april/2024.04.06.md)
   * [2024.04.07](gitbook-diary-2024/april/2024.04.07.md)
   * [2024.04.08](gitbook-diary-2024/april/2024.04.08.md)
+  * [2024.04.11](gitbook-diary-2024/april/2024.04.11.md)
