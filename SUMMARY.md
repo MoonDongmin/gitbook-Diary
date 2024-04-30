@@ -59,3 +59,4 @@
   * [2024.04.15](gitbook-diary-2024/april/2024.04.15.md)
   * [2024.04.21](gitbook-diary-2024/april/2024.04.21.md)
   * [2024.04.28](gitbook-diary-2024/april/2024.04.28.md)
+  * [2024.04.30](gitbook-diary-2024/april/2024.04.30.md)
