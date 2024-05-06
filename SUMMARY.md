@@ -63,3 +63,4 @@
 * [May](gitbook-diary-2024/may/README.md)
   * [2024.05.02](gitbook-diary-2024/may/2024.05.02.md)
   * [2024.05.04](gitbook-diary-2024/may/2024.05.04.md)
+  * [2024.05.06](gitbook-diary-2024/may/2024.05.06.md)
