@@ -2,7 +2,7 @@
 
 ## gitbook-diary-2024
 
-* [january](README.md)
+* [January](README.md)
   * [2024.01.15](gitbook-diary-2024/january/2024.01.15.md)
   * [2024.01.16](gitbook-diary-2024/january/2024.01.16.md)
   * [2024.01.17](gitbook-diary-2024/january/2024.01.17.md)
@@ -20,7 +20,7 @@
   * [2024.01.29](gitbook-diary-2024/january/2024.01.29.md)
   * [2024.01.30](gitbook-diary-2024/january/2024.01.30.md)
   * [2024.01.31](gitbook-diary-2024/january/2024.01.31.md)
-* [february](gitbook-diary-2024/february/README.md)
+* [February](gitbook-diary-2024/february/README.md)
   * [2024.02.01](gitbook-diary-2024/february/2024.02.01.md)
   * [2024.02.02](gitbook-diary-2024/february/2024.02.02.md)
   * [2024.02.03](gitbook-diary-2024/february/2024.02.03.md)
@@ -40,7 +40,7 @@
   * [2024.02.22](gitbook-diary-2024/february/2024.02.22.md)
   * [2024.02.26](gitbook-diary-2024/february/2024.02.26.md)
   * [2024.02.19](gitbook-diary-2024/february/2024.02.19.md)
-* [march](gitbook-diary-2024/march/README.md)
+* [March](gitbook-diary-2024/march/README.md)
   * [2024.03.01](gitbook-diary-2024/march/2024.03.01.md)
   * [2024.03.02](gitbook-diary-2024/march/2024.03.02.md)
   * [2024.03.04](gitbook-diary-2024/march/2024.03.04.md)
@@ -50,7 +50,7 @@
   * [2024.03.11](gitbook-diary-2024/march/2024.03.11.md)
   * [2024.03.27](gitbook-diary-2024/march/2024.03.27.md)
   * [2024.03.30](gitbook-diary-2024/march/2024.03.30.md)
-* [april](gitbook-diary-2024/april/README.md)
+* [April](gitbook-diary-2024/april/README.md)
   * [2024.04.02](gitbook-diary-2024/april/2024.04.02.md)
   * [2024.04.06](gitbook-diary-2024/april/2024.04.06.md)
   * [2024.04.07](gitbook-diary-2024/april/2024.04.07.md)
@@ -73,3 +73,4 @@
   * [2024.06.09](gitbook-diary-2024/june/2024.06.09.md)
   * [2024.06.10](gitbook-diary-2024/june/2024.06.10.md)
   * [2024.06.11](gitbook-diary-2024/june/2024.06.11.md)
+  * [2024.06.14](gitbook-diary-2024/june/2024.06.14.md)
