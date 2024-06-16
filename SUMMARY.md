@@ -74,3 +74,4 @@
   * [2024.06.10](gitbook-diary-2024/june/2024.06.10.md)
   * [2024.06.11](gitbook-diary-2024/june/2024.06.11.md)
   * [2024.06.14](gitbook-diary-2024/june/2024.06.14.md)
+  * [2024.06.16](gitbook-diary-2024/june/2024.06.16.md)
