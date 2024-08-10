@@ -86,3 +86,4 @@
   * [2024.08.03](gitbook-diary-2024/august/2024.08.03.md)
   * [2024.08.09](gitbook-diary-2024/august/2024.08.09.md)
   * [2024.08.10](gitbook-diary-2024/august/2024.08.10.md)
+  * [2024.08.11](gitbook-diary-2024/august/2024.08.11.md)
