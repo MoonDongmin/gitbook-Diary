@@ -93,3 +93,4 @@
   * [2024.08.30](gitbook-diary-2024/august/2024.08.30.md)
 * [September](gitbook-diary-2024/september/README.md)
   * [2024.09.01](gitbook-diary-2024/september/2024.09.01.md)
+  * [2024.09.02](gitbook-diary-2024/september/2024.09.02.md)
