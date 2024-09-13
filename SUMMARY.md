@@ -96,3 +96,4 @@
   * [2024.09.02](gitbook-diary-2024/september/2024.09.02.md)
   * [2024.09.05](gitbook-diary-2024/september/2024.09.05.md)
   * [2024.09.09](gitbook-diary-2024/september/2024.09.09.md)
+  * [2024.09.13](gitbook-diary-2024/september/2024.09.13.md)
