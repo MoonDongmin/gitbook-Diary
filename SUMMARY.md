@@ -104,3 +104,4 @@
   * [2024.10.09](gitbook-diary-2024/october/2024.10.09.md)
   * [2024.10.15](gitbook-diary-2024/october/2024.10.15.md)
   * [2024.10.23](gitbook-diary-2024/october/2024.10.23.md)
+  * [2024.10.30](gitbook-diary-2024/october/2024.10.30.md)
