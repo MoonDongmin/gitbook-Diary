@@ -106,3 +106,5 @@
   * [2024.10.23](gitbook-diary-2024/october/2024.10.23.md)
   * [2024.10.30](gitbook-diary-2024/october/2024.10.30.md)
   * [2024.10.31](gitbook-diary-2024/october/2024.10.31.md)
+* [November](gitbook-diary-2024/november/README.md)
+  * [2024.11.01](gitbook-diary-2024/november/2024.11.01.md)
