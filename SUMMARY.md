@@ -113,3 +113,5 @@
   * [2024.11.08](gitbook-diary-2024/november/2024.11.08.md)
   * [2024.11.09](gitbook-diary-2024/november/2024.11.09.md)
   * [2024.11.20](gitbook-diary-2024/november/2024.11.20.md)
+* [December](gitbook-diary-2024/december/README.md)
+  * [2024.12.01](gitbook-diary-2024/december/2024.12.01.md)
