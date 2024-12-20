@@ -118,3 +118,4 @@
   * [2024.12.08](gitbook-diary-2024/december/2024.12.08.md)
   * [2024.12.09](gitbook-diary-2024/december/2024.12.09.md)
   * [2024.12.14](gitbook-diary-2024/december/2024.12.14.md)
+  * [2024.12.20](gitbook-diary-2024/december/2024.12.20.md)
